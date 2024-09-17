@@ -1,6 +1,1 @@
-[submodule "ENCard"]
-	path = ENCard
-	url = https://github.com/seriaati/ENCard
-[submodule "enka-card"]
-	path = enka_card
-	url = https://github.com/seriaati/enka-card
+enkacard==3.3.8
